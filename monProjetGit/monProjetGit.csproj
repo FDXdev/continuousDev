@@ -138,7 +138,6 @@
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <None Include="Properties\PublishProfiles\monProjetGitDescroix - Web Deploy.pubxml" />
-    <None Include="Properties\PublishProfiles\monProjetGitDescroixDev - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />
@@ -200,7 +199,7 @@
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>50422</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:50422/</IISUrl>
+          <IISUrl>https://localhost:44382/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>
